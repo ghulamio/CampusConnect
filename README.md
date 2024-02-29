@@ -1,4 +1,5 @@
 # CampusConnect
+GitHub repositories for backend and frontend:
 - [API](https://github.com/mrowaha/CampusConnect.api)<br/>
 - [APP](https://github.com/mrowaha/CampusConnect.web)
 
