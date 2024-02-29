@@ -1,5 +1,4 @@
 # CampusConnect
-<small>CS 319 Object Oriented Project</small><br/>
 - [API](https://github.com/mrowaha/CampusConnect.api)<br/>
 - [APP](https://github.com/mrowaha/CampusConnect.web)
 
